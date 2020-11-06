@@ -1,6 +1,6 @@
 
 <?php 
-    echo $_GET[id];
-    echo "<br>";
-    echo $_GET[pwd];
+    echo $_GET[id]; <!--回傳訊息問ID-->
+    echo "<br>"; <!--回傳輸入ENTER-->
+    echo $_GET[pwd];<!--回傳問ENTER-->
 ?>
